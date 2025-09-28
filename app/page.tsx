@@ -1159,22 +1159,45 @@ export default function HomePage() {
           </div>
 
           <div className="bg-white rounded-lg shadow-lg p-12 mt-8">
-            <div className="w-full h-72 rounded-xl flex flex-col md:flex-row items-center justify-center gap-8 bg-white">
-              <div className="flex flex-col items-center gap-4">
-                <img src="/pupuk indonesia.jpg" alt="Pupuk Indonesia" className="max-h-48 max-w-sm object-contain" />
-                <img src="/cpoc.jpg" alt="CPOPC" className="max-h-36 max-w-sm object-contain" />
+            <div className="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-center justify-items-center">
+              <div className="flex flex-col items-center gap-6 sm:gap-8 lg:pr-8">
+                <img
+                  src="/pupuk indonesia.jpg"
+                  alt="Pupuk Indonesia"
+                  className="max-h-32 w-full max-w-xs object-contain"
+                />
+                <img
+                  src="/cpoc.jpg"
+                  alt="CPOPC"
+                  className="max-h-28 w-full max-w-xs object-contain"
+                />
               </div>
-              <div className="h-32 w-px bg-green-100 hidden md:block" />
-              <div className="flex flex-col items-center gap-4">
-                <img src="/BPDP.jpg" alt="BPDP" className="max-h-48 max-w-sm object-contain" />
-                <img src="/Pertamina_Logo.svg.png" alt="Pertamina" className="max-h-20 max-w-xs object-contain" />
+              <div className="flex flex-col items-center gap-6 sm:gap-8 lg:border-x lg:border-green-100 lg:px-8">
+                <img
+                  src="/BPDP.jpg"
+                  alt="BPDP"
+                  className="max-h-32 w-full max-w-xs object-contain"
+                />
+                <img
+                  src="/Pertamina_Logo.svg.png"
+                  alt="Pertamina"
+                  className="max-h-20 w-full max-w-xs object-contain"
+                />
               </div>
-              <div className="h-32 w-px bg-green-100 hidden md:block" />
-              <div className="flex flex-col items-center gap-4">
-                <img src="/nusantara.png" alt="Perkebunan Nusantara" className="max-h-32 max-w-xs object-contain" />
-                <img src="/Logo-triputra-agro-persada.png" alt="Triputra Agro Persada" className="max-h-20 max-w-xs object-contain" />
+              <div className="flex flex-col items-center gap-6 sm:gap-8 lg:pl-8">
+                <img
+                  src="/nusantara.png"
+                  alt="Perkebunan Nusantara"
+                  className="max-h-28 w-full max-w-xs object-contain"
+                />
+                <img
+                  src="/Logo-triputra-agro-persada.png"
+                  alt="Triputra Agro Persada"
+                  className="max-h-20 w-full max-w-xs object-contain"
+                />
               </div>
             </div>
+          </div>
           </div>
         </div>
       </section>
@@ -1262,6 +1285,7 @@ export default function HomePage() {
     </div>
   )
 }
+
 
 
 
