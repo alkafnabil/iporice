@@ -116,7 +116,7 @@ export default function HomePage() {
   }
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen w-full overflow-x-hidden bg-background">
       {/* Navigation */}
       <nav className="bg-green-800 fixed top-0 left-0 w-full z-[60] shadow-lg">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -267,9 +267,9 @@ export default function HomePage() {
         </div>
       </nav>
 
-      <main className="pt-16 lg:pt-20">
+      <main className="pt-16 lg:pt-20 w-full">
       {/* Hero Section */}
-      <section id="home" className="relative min-h-screen flex items-center justify-center">
+      <section id="home" className="relative min-h-screen w-full overflow-hidden flex items-center justify-center">
         <div className="absolute inset-0 overflow-hidden">
           {conferenceImages.map((image, index) => (
             <div
@@ -322,7 +322,7 @@ export default function HomePage() {
           </Badge>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-6 text-balance leading-tight">
-            IPORICE ΓÇô Indonesia Palm Oil Research & Innovation Conference and Expo
+            Indonesia Palm Oil Research & Innovation Conference and Expo
           </h1>
 
           <p className="text-xl md:text-2xl lg:text-3xl mb-8 text-balance max-w-4xl mx-auto font-medium">
@@ -527,7 +527,7 @@ export default function HomePage() {
             <div className="text-center">
               <h2 className="text-4xl md:text-5xl font-bold text-green-900 mb-6">Agenda Acara</h2>
               <p className="text-xl text-muted-foreground mb-4 leading-relaxed">
-                The 2nd Indonesia Palm Oil Research and Innovation Conference and Expo (IPORICE) 2025
+                The 2nd Indonesia Palm Oil Research and Innovation Conference and Expo 2025
               </p>
               <p className="text-base text-muted-foreground mb-8">1-3 Oktober 2025</p>
               <p className="text-base text-muted-foreground mb-8 leading-relaxed">
