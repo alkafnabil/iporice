@@ -322,7 +322,7 @@ export default function HomePage() {
           </Badge>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-6 text-balance leading-tight">
-            IPORICE – Indonesia Palm Oil Research & Innovation Conference and Expo
+            IPORICE ΓÇô Indonesia Palm Oil Research & Innovation Conference and Expo
           </h1>
 
           <p className="text-xl md:text-2xl lg:text-3xl mb-8 text-balance max-w-4xl mx-auto font-medium">
@@ -422,7 +422,7 @@ export default function HomePage() {
 
               <div className="bg-green-100 p-6 rounded-lg space-y-4">
                 <div>
-                  <p className="font-semibold text-green-900 mb-2">• IPORICE 2024 bertema:</p>
+                  <p className="font-semibold text-green-900 mb-2">ΓÇó IPORICE 2024 bertema:</p>
                   <p className="italic text-green-800">"Daya Juang Sawit Berkelanjutan untuk Indonesia Maju"</p>
                   <p className="text-sm text-green-700 mt-2">
                     Tema ini menekankan pentingnya daya juang seluruh pemangku kepentingan agar sawit Indonesia mampu
@@ -432,7 +432,7 @@ export default function HomePage() {
                 </div>
 
                 <div>
-                  <p className="font-semibold text-green-900 mb-2">• IPORICE 2025 bertema:</p>
+                  <p className="font-semibold text-green-900 mb-2">ΓÇó IPORICE 2025 bertema:</p>
                   <p className="italic text-green-800">
                     "Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi
                     Teknologi"
@@ -558,9 +558,9 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">08.30-09.00</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">• Registrasi Peserta</p>
+                              <p className="text-base leading-relaxed">ΓÇó Registrasi Peserta</p>
                               <p className="text-base leading-relaxed">
-                                • Pembagian Goody Bag dan Pemutaran Video Sponsor
+                                ΓÇó Pembagian Goody Bag dan Pemutaran Video Sponsor
                               </p>
                             </div>
                           </td>
@@ -569,9 +569,9 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">09.00-09.16</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">• Pembukaan oleh MC</p>
-                              <p className="text-base leading-relaxed">• Tarian Pembukaan</p>
-                              <p className="text-base leading-relaxed">• Menyanyikan Lagu Indonesia Raya</p>
+                              <p className="text-base leading-relaxed">ΓÇó Pembukaan oleh MC</p>
+                              <p className="text-base leading-relaxed">ΓÇó Tarian Pembukaan</p>
+                              <p className="text-base leading-relaxed">ΓÇó Menyanyikan Lagu Indonesia Raya</p>
                             </div>
                           </td>
                         </tr>
@@ -738,8 +738,8 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">09.00-09.10</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">• Pembukaan oleh MC</p>
-                              <p className="text-base leading-relaxed">• Menyanyikan Lagu Indonesia Raya</p>
+                              <p className="text-base leading-relaxed">ΓÇó Pembukaan oleh MC</p>
+                              <p className="text-base leading-relaxed">ΓÇó Menyanyikan Lagu Indonesia Raya</p>
                             </div>
                           </td>
                         </tr>
@@ -1198,12 +1198,12 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-          </div>
         </div>
       </section>
 
       </main>
       {/* Footer */}
+
       <footer className="bg-green-900 text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
