@@ -1,4 +1,4 @@
-﻿"use client"
+"use client"
 
 import { Badge } from "@/components/ui/badge"
 import {
@@ -118,7 +118,7 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-background">
       {/* Navigation */}
-      <nav className="bg-green-800 sticky top-0 z-50 shadow-lg">
+      <nav className="bg-green-800 fixed top-0 left-0 w-full z-[60] shadow-lg">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2 cursor-pointer" onClick={() => scrollToSection("home")}>
@@ -210,9 +210,13 @@ export default function HomePage() {
           </div>
 
           {/* Mobile Navigation */}
-          {isMenuOpen && (
-            <div className="md:hidden bg-green-900 border-t border-green-700">
-              <div className="px-2 pt-2 pb-3 space-y-1">
+          <div
+            className={`md:hidden fixed inset-0 z-50 bg-green-900 transition-all duration-300 ease-in-out overflow-y-auto h-screen pt-20 pb-8 px-4 box-border ${
+              isMenuOpen ? "pointer-events-auto opacity-100 translate-y-0" : "pointer-events-none opacity-0 -translate-y-4"
+            }`}
+          >
+            <div className="mx-auto w-full max-w-7xl space-y-4">
+              <div className="space-y-1">
                 <button
                   onClick={() => scrollToSection("about")}
                   className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
@@ -243,28 +247,29 @@ export default function HomePage() {
                 >
                   Ulasan
                 </button>
-                <div className="px-3 py-2 text-white">
-                  <div className="text-sm font-medium mb-2">Kontak</div>
-                  <div className="text-xs text-green-100 space-y-1">
-                    <div>IPORICE Secretariat</div>
-                    <div>Pusat Riset Ekonomi Industri, Jasa, dan Perdagangan</div>
-                    <div>OR TKPEKM, BRIN</div>
-                    <div className="mt-2">
-                      <div>A.n. Mba Reninta</div>
-                      <div>📞 +62 856-4300-7139</div>
-                    </div>
-                    <div className="mt-1">
-                      <div>Grace</div>
-                      <div>📞 +62 851-3207-9896</div>
-                    </div>
+              </div>
+              <div className="rounded-lg border border-green-700/60 bg-green-800/60 px-4 py-3 text-white">
+                <div className="text-sm font-medium mb-2">Kontak</div>
+                <div className="text-xs text-green-100 space-y-1">
+                  <div>IPORICE Secretariat</div>
+                  <div>Pusat Riset Ekonomi Industri, Jasa, dan Perdagangan</div>
+                  <div>OR TKPEKM, BRIN</div>
+                  <div className="mt-2">
+                    <div>A.n. Mba Reninta</div>
+                    <div>📞 +62 856-4300-7139</div>
+                  </div>
+                  <div className="mt-1">
+                    <div>Grace</div>
+                    <div>📞 +62 851-3207-9896</div>
                   </div>
                 </div>
               </div>
             </div>
-          )}
+          </div>
         </div>
       </nav>
 
+      <main className="pt-16 lg:pt-20">
       {/* Hero Section */}
       <section id="home" className="relative min-h-screen flex items-center justify-center">
         <div className="absolute inset-0 overflow-hidden">
@@ -1176,6 +1181,7 @@ export default function HomePage() {
         </div>
       </section>
 
+      </main>
       {/* Footer */}
       <footer className="bg-green-900 text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
