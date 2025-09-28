@@ -182,14 +182,14 @@ export default function HomePage() {
                         <span className="text-gray-700 text-sm font-medium">A.n. Mba Reninta</span>
                       </div>
                       <div className="flex items-center space-x-2">
-                        <span className="text-sm">📞</span>
+                        <span className="text-sm">Tel:</span>
                         <span className="text-gray-600 text-sm">+62 856-4300-7139</span>
                       </div>
                       <div className="flex items-center space-x-2">
                         <span className="text-gray-700 text-sm font-medium">Grace</span>
                       </div>
                       <div className="flex items-center space-x-2">
-                        <span className="text-sm">📞</span>
+                        <span className="text-sm">Tel:</span>
                         <span className="text-gray-600 text-sm">+62 851-3207-9896</span>
                       </div>
                     </div>
@@ -210,62 +210,60 @@ export default function HomePage() {
           </div>
 
           {/* Mobile Navigation */}
-          <div
-            className={`md:hidden fixed inset-0 z-50 bg-green-900 transition-all duration-300 ease-in-out overflow-y-auto h-screen pt-20 pb-8 px-4 box-border ${
-              isMenuOpen ? "pointer-events-auto opacity-100 translate-y-0" : "pointer-events-none opacity-0 -translate-y-4"
-            }`}
-          >
-            <div className="mx-auto w-full max-w-7xl space-y-4">
-              <div className="space-y-1">
-                <button
-                  onClick={() => scrollToSection("about")}
-                  className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
-                >
-                  About
-                </button>
-                <button
-                  onClick={() => scrollToSection("program")}
-                  className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
-                >
-                  Program
-                </button>
-                <button
-                  onClick={() => scrollToSection("sponsors")}
-                  className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
-                >
-                  Sponsors
-                </button>
-                <button
-                  onClick={() => scrollToSection("speakers")}
-                  className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
-                >
-                  Speakers
-                </button>
-                <button
-                  onClick={() => scrollToSection("about")}
-                  className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
-                >
-                  Ulasan
-                </button>
-              </div>
-              <div className="rounded-lg border border-green-700/60 bg-green-800/60 px-4 py-3 text-white">
-                <div className="text-sm font-medium mb-2">Kontak</div>
-                <div className="text-xs text-green-100 space-y-1">
-                  <div>IPORICE Secretariat</div>
-                  <div>Pusat Riset Ekonomi Industri, Jasa, dan Perdagangan</div>
-                  <div>OR TKPEKM, BRIN</div>
-                  <div className="mt-2">
-                    <div>A.n. Mba Reninta</div>
-                    <div>📞 +62 856-4300-7139</div>
-                  </div>
-                  <div className="mt-1">
-                    <div>Grace</div>
-                    <div>📞 +62 851-3207-9896</div>
+          {isMenuOpen && (
+            <div className="md:hidden fixed inset-0 z-[999] bg-green-900 transition-all duration-300 ease-in-out overflow-y-auto h-screen pt-20 pb-8 px-4">
+              <div className="mx-auto w-full max-w-7xl space-y-4">
+                <div className="space-y-1">
+                  <button
+                    onClick={() => scrollToSection("about")}
+                    className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
+                  >
+                    About
+                  </button>
+                  <button
+                    onClick={() => scrollToSection("program")}
+                    className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
+                  >
+                    Program
+                  </button>
+                  <button
+                    onClick={() => scrollToSection("sponsors")}
+                    className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
+                  >
+                    Sponsors
+                  </button>
+                  <button
+                    onClick={() => scrollToSection("speakers")}
+                    className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
+                  >
+                    Speakers
+                  </button>
+                  <button
+                    onClick={() => scrollToSection("about")}
+                    className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
+                  >
+                    Ulasan
+                  </button>
+                </div>
+                <div className="rounded-lg border border-green-700/60 bg-green-800/60 px-4 py-3 text-white">
+                  <div className="text-sm font-medium mb-2">Kontak</div>
+                  <div className="text-xs text-green-100 space-y-1">
+                    <div>IPORICE Secretariat</div>
+                    <div>Pusat Riset Ekonomi Industri, Jasa, dan Perdagangan</div>
+                    <div>OR TKPEKM, BRIN</div>
+                    <div className="mt-2">
+                      <div>A.n. Mba Reninta</div>
+                      <div>Tel: +62 856-4300-7139</div>
+                    </div>
+                    <div className="mt-1">
+                      <div>Grace</div>
+                      <div>Tel: +62 851-3207-9896</div>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
+          )}
         </div>
       </nav>
 
