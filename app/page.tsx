@@ -316,18 +316,19 @@ export default function HomePage() {
 
         {/* Hero Content */}
         <div className="relative z-10 text-center text-white max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <Badge className="mb-6 bg-green-800 text-white text-lg px-6 py-2">
+          <Badge className="mb-4 bg-green-800 text-white text-sm sm:text-base px-5 py-2">
             THE 2nd INDONESIA PALM OIL RESEARCH AND INNOVATION CONFERENCE 2025
           </Badge>
 
-          <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-6 text-balance leading-tight">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 text-balance leading-tight">
             Indonesia Palm Oil Research & Innovation Conference and Expo
           </h1>
 
-          <p className="text-xl md:text-2xl lg:text-3xl mb-8 text-balance max-w-4xl mx-auto font-medium">"Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi Teknologi"
+          <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl mb-6 sm:mb-8 text-balance max-w-4xl mx-auto font-medium">
+            "Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi Teknologi"
           </p>
 
-          <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-12 text-lg">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6 mb-10 sm:mb-12 text-base sm:text-lg">
             <div className="flex items-center gap-2">
               <Calendar className="h-6 w-6 text-green-600" />
               <span>1-3 Oktober 2025</span>
