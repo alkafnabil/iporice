@@ -618,7 +618,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 1: Sosial Ekonomi</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
+                                  <p className="text-sm text-gray-800 leading-relaxed">Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
                                   </p>
                                 </div>
                               </div>
@@ -632,7 +632,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 2: Teknologi Pengolahan</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
+                                  <p className="text-sm text-gray-800 leading-relaxed">Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
                                   </p>
                                 </div>
                               </div>
@@ -650,7 +650,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 3: Budidaya</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Edy Sigit Sutarta, M.S., Peneliti Ahli Utama, Pusat Riset Perkebunan
+                                  <p className="text-sm text-gray-800 leading-relaxed">Dr. Ir. Edy Sigit Sutarta, M.S., Peneliti Ahli Utama, Pusat Riset Perkebunan
                                   </p>
                                 </div>
                               </div>
@@ -664,7 +664,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 4: Lingkungan</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Lilik Budi Prasetyo, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekologi dan
+                                  <p className="text-sm text-gray-800 leading-relaxed">Dr. Ir. Lilik Budi Prasetyo, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekologi dan
                                   </p>
                                 </div>
                               </div>
@@ -745,7 +745,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 5: Inovasi dan Teknologi Terdepan</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
+                                  <p className="text-sm text-gray-800 leading-relaxed">Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
                                   </p>
                                 </div>
                               </div>
@@ -759,7 +759,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 6: Kebijakan dan Regulasi</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
+                                  <p className="text-sm text-gray-800 leading-relaxed">Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
                                   </p>
                                 </div>
                               </div>
