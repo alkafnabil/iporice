@@ -171,8 +171,7 @@ export default function HomePage() {
                   <div className="p-4 space-y-3">
                     <div className="border-b border-gray-100 pb-3">
                       <h3 className="font-semibold text-gray-800 text-sm mb-2">IPORICE Secretariat</h3>
-                      <p className="text-gray-600 text-xs leading-relaxed">
-                        Pusat Riset Ekonomi Industri, Jasa, dan Perdagangan
+                      <p className="text-gray-600 text-xs leading-relaxed">Pusat Riset Ekonomi Industri, Jasa, dan Perdagangan
                         <br />
                         OR TKPEKM, BRIN
                       </p>
@@ -325,8 +324,7 @@ export default function HomePage() {
             Indonesia Palm Oil Research & Innovation Conference and Expo
           </h1>
 
-          <p className="text-xl md:text-2xl lg:text-3xl mb-8 text-balance max-w-4xl mx-auto font-medium">
-            "Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi Teknologi"
+          <p className="text-xl md:text-2xl lg:text-3xl mb-8 text-balance max-w-4xl mx-auto font-medium">"Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi Teknologi"
           </p>
 
           <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-12 text-lg">
@@ -371,22 +369,19 @@ export default function HomePage() {
             </h2>
 
             <div className="max-w-5xl mx-auto space-y-6 text-muted-foreground leading-relaxed text-center">
-              <p>
-                Selamat datang di Konferensi dan Expo Riset dan Inovasi Kelapa Sawit Indonesia (IPORICE) ke-2. Kami
+              <p>Selamat datang di Konferensi dan Expo Riset dan Inovasi Kelapa Sawit Indonesia (IPORICE) ke-2. Kami
                 dengan senang hati mengumumkan bahwa Konferensi Internasional IPORICE ke-2 akan berlangsung pada tanggal
                 1-3 Oktober 2025 di Kota <strong>Jakarta</strong>, Indonesia. Acara tahunan ini diselenggarakan oleh{" "}
                 <strong>Badan Riset dan Inovasi Nasional (BRIN)</strong>, bekerja sama dengan GPPI.
               </p>
 
-              <p>
-                Badan Riset dan Inovasi Nasional (BRIN), sebagai lembaga terdepan di Indonesia dan salah satu organisasi
+              <p>Badan Riset dan Inovasi Nasional (BRIN), sebagai lembaga terdepan di Indonesia dan salah satu organisasi
                 riset paling terkemuka di Indonesia, telah lama berada di garis depan dalam memajukan riset dan inovasi
                 di negara ini. Dikenal karena dedikasinya terhadap keunggulan ilmiah dan keterlibatan masyarakat, BRIN
                 terus memainkan peran penting dalam mendorong inovasi dan pembangunan berkelanjutan.
               </p>
 
-              <p>
-                Konferensi IPORICE tahun ini akan berfokus pada tema:{" "}
+              <p>Konferensi IPORICE tahun ini akan berfokus pada tema:{" "}
                 <strong>
                   "Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi
                   Teknologi"
@@ -402,50 +397,43 @@ export default function HomePage() {
             <h2 className="text-3xl md:text-4xl font-bold text-green-800 mb-8">Latar Belakang</h2>
 
             <div className="max-w-5xl mx-auto space-y-6 text-muted-foreground leading-relaxed text-left">
-              <p>
-                Indonesia merupakan salah satu produsen kelapa sawit terbesar di dunia. Industri sawit memainkan peran
+              <p>Indonesia merupakan salah satu produsen kelapa sawit terbesar di dunia. Industri sawit memainkan peran
                 strategis sebagai penopang ekonomi nasional, penyedia lapangan kerja, dan sumber devisa. Namun,
                 keberadaannya juga membawa tantangan serius, terutama terkait isu deforestasi, lingkungan, dan tuntutan
                 pasar global untuk produk yang berkelanjutan.
               </p>
 
-              <p>
-                Dalam menghadapi tantangan ini, riset dan inovasi menjadi sangat penting. Melalui penelitian,
+              <p>Dalam menghadapi tantangan ini, riset dan inovasi menjadi sangat penting. Melalui penelitian,
                 pengembangan teknologi, dan kolaborasi lintas sektor, industri sawit dapat ditingkatkan daya saingnya
                 sekaligus menjaga keberlanjutan lingkungan.
               </p>
 
-              <p>
-                Untuk itu, Badan Riset dan Inovasi Nasional (BRIN) bersama Gabungan Perusahaan Perkebunan Indonesia
+              <p>Untuk itu, Badan Riset dan Inovasi Nasional (BRIN) bersama Gabungan Perusahaan Perkebunan Indonesia
                 (GPPI) menyelenggarakan Indonesia Palm Oil Research and Innovation Conference and Expo (IPORICE).
               </p>
 
               <div className="bg-green-100 p-6 rounded-lg space-y-4">
                 <div>
-                  <p className="font-semibold text-green-900 mb-2">• IPORICE 2024 bertema:</p>
+                  <p className="font-semibold text-green-900 mb-2">IPORICE 2024 bertema:</p>
                   <p className="italic text-green-800">"Daya Juang Sawit Berkelanjutan untuk Indonesia Maju"</p>
-                  <p className="text-sm text-green-700 mt-2">
-                    Tema ini menekankan pentingnya daya juang seluruh pemangku kepentingan agar sawit Indonesia mampu
+                  <p className="text-sm text-green-700 mt-2">Tema ini menekankan pentingnya daya juang seluruh pemangku kepentingan agar sawit Indonesia mampu
                     bertahan di tengah tantangan global, sekaligus menjadi motor pembangunan nasional yang
                     berkelanjutan.
                   </p>
                 </div>
 
                 <div>
-                  <p className="font-semibold text-green-900 mb-2">• IPORICE 2025 bertema:</p>
-                  <p className="italic text-green-800">
-                    "Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi
+                  <p className="font-semibold text-green-900 mb-2">IPORICE 2025 bertema:</p>
+                  <p className="italic text-green-800">"Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi
                     Teknologi"
                   </p>
-                  <p className="text-sm text-green-700 mt-2">
-                    Tema ini menggarisbawahi peran sawit dalam mendukung ketahanan energi nasional melalui inovasi
+                  <p className="text-sm text-green-700 mt-2">Tema ini menggarisbawahi peran sawit dalam mendukung ketahanan energi nasional melalui inovasi
                     teknologi menuju target Net Zero Emission 2060.
                   </p>
                 </div>
               </div>
 
-              <p>
-                IPORICE bukan hanya forum akademik, tetapi juga ruang strategis untuk mempertemukan pemerintah,
+              <p>IPORICE bukan hanya forum akademik, tetapi juga ruang strategis untuk mempertemukan pemerintah,
                 industri, akademisi, petani, dan masyarakat sipil dalam membangun sinergi sawit berkelanjutan.
               </p>
             </div>
@@ -470,8 +458,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-2xl font-bold text-foreground mb-4">Konferensi</h3>{" "}
               {/* reduced margin from mb-6 to mb-4 */}
-              <p className="text-muted-foreground leading-relaxed">
-                Konferensi ini merupakan acara tahunan unggulan IPORICE yang didedikasikan untuk memajukan penelitian
+              <p className="text-muted-foreground leading-relaxed">Konferensi ini merupakan acara tahunan unggulan IPORICE yang didedikasikan untuk memajukan penelitian
                 dan mendorong kolaborasi di seluruh Indonesia. Konferensi ini berfungsi sebagai platform untuk diskusi
                 terbuka, berbagi pengetahuan, pengembangan strategi kebijakan, dan jaringan antara para akademisi dan
                 pembuat kebijakan. Sejak awal berdirinya, IPORICE telah menarik audiens yang luas dari berbagai
@@ -491,8 +478,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-2xl font-bold text-foreground mb-4">Lokasi</h3>{" "}
               {/* reduced margin from mb-6 to mb-4 */}
-              <p className="text-muted-foreground leading-relaxed">
-                Ballroom Gedung Badan Riset dan Inovasi Nasional (BRIN) Lantai 2<br />
+              <p className="text-muted-foreground leading-relaxed">Ballroom Gedung Badan Riset dan Inovasi Nasional (BRIN) Lantai 2<br />
                 Jl. Jenderal Gatot Subroto No. 10, Jakarta 12710
               </p>
             </div>
@@ -505,8 +491,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-2xl font-bold text-foreground mb-4">Tujuan</h3>{" "}
               {/* reduced margin from mb-6 to mb-4 */}
-              <p className="text-muted-foreground leading-relaxed">
-                Konferensi ini bertujuan untuk mengintegrasikan berbagai penelitian dan inovasi di sektor kelapa sawit
+              <p className="text-muted-foreground leading-relaxed">Konferensi ini bertujuan untuk mengintegrasikan berbagai penelitian dan inovasi di sektor kelapa sawit
                 untuk mengatasi tantangan terkait Industri Kelapa Sawit dalam Ketahanan Energi untuk mencapai Net Zero
                 Emission, meningkatkan peluang bisnis kelapa sawit nasional yang berkelanjutan, memfasilitasi pertemuan
                 kolaboratif antara pemangku kepentingan di sektor kelapa sawit, memamerkan hasil penelitian dan inovasi
@@ -526,12 +511,10 @@ export default function HomePage() {
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center">
               <h2 className="text-4xl md:text-5xl font-bold text-green-900 mb-6">Agenda Acara</h2>
-              <p className="text-xl text-muted-foreground mb-4 leading-relaxed">
-                The 2nd Indonesia Palm Oil Research and Innovation Conference and Expo 2025
+              <p className="text-xl text-muted-foreground mb-4 leading-relaxed">The 2nd Indonesia Palm Oil Research and Innovation Conference and Expo 2025
               </p>
               <p className="text-base text-muted-foreground mb-8">1-3 Oktober 2025</p>
-              <p className="text-base text-muted-foreground mb-8 leading-relaxed">
-                Konferensi dan Expo Riset dan Inovasi Kelapa Sawit Indonesia (IPORICE) ke-2 tahun 2025 akan diselenggarakan
+              <p className="text-base text-muted-foreground mb-8 leading-relaxed">Konferensi dan Expo Riset dan Inovasi Kelapa Sawit Indonesia (IPORICE) ke-2 tahun 2025 akan diselenggarakan
                 pada tanggal 1-3 Oktober 2025, di Ballroom Gedung Badan Riset dan Inovasi Nasional (BRIN) Lantai 2, Jl.
                 Jenderal Gatot Subroto No. 10, Jakarta 12710. Acara ini akan mempertemukan 250 peserta dari
                 kementerian/lembaga terkait, perusahaan kelapa sawit, asosiasi perusahaan dan petani kelapa sawit,
@@ -558,9 +541,8 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">08.30-09.00</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">• Registrasi Peserta</p>
-                              <p className="text-base leading-relaxed">
-                                • Pembagian Goody Bag dan Pemutaran Video Sponsor
+                              <p className="text-base leading-relaxed">Registrasi Peserta</p>
+                              <p className="text-base leading-relaxed">Pembagian Goody Bag dan Pemutaran Video Sponsor
                               </p>
                             </div>
                           </td>
@@ -569,9 +551,9 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">09.00-09.16</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">• Pembukaan oleh MC</p>
-                              <p className="text-base leading-relaxed">• Tarian Pembukaan</p>
-                              <p className="text-base leading-relaxed">• Menyanyikan Lagu Indonesia Raya</p>
+                              <p className="text-base leading-relaxed">Pembukaan oleh MC</p>
+                              <p className="text-base leading-relaxed">Tarian Pembukaan</p>
+                              <p className="text-base leading-relaxed">Menyanyikan Lagu Indonesia Raya</p>
                             </div>
                           </td>
                         </tr>
@@ -584,8 +566,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div>
                               <p className="font-semibold text-base mb-1">Laporan Ketua Panitia</p>
-                              <p className="text-sm text-gray-800 leading-relaxed">
-                                Dr. Agus Eko Nugroho S.E., M. Appl.Econ, Kepala Organisasi Riset Tata Kelola
+                              <p className="text-sm text-gray-800 leading-relaxed">Dr. Agus Eko Nugroho S.E., M. Appl.Econ, Kepala Organisasi Riset Tata Kelola
                                 Pemerintahan, Ekonomi dan Kesejahteraan Masyarakat (OR TKPEKM BRIN)
                               </p>
                             </div>
@@ -596,8 +577,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div>
                               <p className="font-semibold text-base mb-1">Sambutan Selamat Datang</p>
-                              <p className="text-sm text-gray-800 leading-relaxed">
-                                Laksana Tri Handoko, Kepala Badan Riset dan Inovasi Nasional (BRIN)
+                              <p className="text-sm text-gray-800 leading-relaxed">Laksana Tri Handoko, Kepala Badan Riset dan Inovasi Nasional (BRIN)
                               </p>
                             </div>
                           </td>
@@ -607,8 +587,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div>
                               <p className="font-semibold text-base mb-1">Keynote Speech</p>
-                              <p className="text-sm text-gray-800 leading-relaxed">
-                                Eddy Abdurrahman, Direktur Utama Badan Pengelola Dana Perkebunan Kelapa Sawit
+                              <p className="text-sm text-gray-800 leading-relaxed">Eddy Abdurrahman, Direktur Utama Badan Pengelola Dana Perkebunan Kelapa Sawit
                               </p>
                             </div>
                           </td>
@@ -638,8 +617,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 1: Sosial Ekonomi</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">
-                                    1. Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
+                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
                                   </p>
                                 </div>
                               </div>
@@ -653,8 +631,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 2: Teknologi Pengolahan</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">
-                                    1. Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
+                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
                                   </p>
                                 </div>
                               </div>
@@ -672,8 +649,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 3: Budidaya</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">
-                                    1. Dr. Ir. Edy Sigit Sutarta, M.S., Peneliti Ahli Utama, Pusat Riset Perkebunan
+                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Edy Sigit Sutarta, M.S., Peneliti Ahli Utama, Pusat Riset Perkebunan
                                   </p>
                                 </div>
                               </div>
@@ -687,8 +663,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 4: Lingkungan</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">
-                                    1. Dr. Ir. Lilik Budi Prasetyo, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekologi dan
+                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Lilik Budi Prasetyo, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekologi dan
                                   </p>
                                 </div>
                               </div>
@@ -728,8 +703,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div className="space-y-1">
                               <p className="text-base leading-relaxed">Registrasi Peserta</p>
-                              <p className="text-base leading-relaxed">
-                                Pembagian Goody Bag dan Pemutaran Video Sponsor
+                              <p className="text-base leading-relaxed">Pembagian Goody Bag dan Pemutaran Video Sponsor
                               </p>
                             </div>
                           </td>
@@ -738,8 +712,8 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">09.00-09.10</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">• Pembukaan oleh MC</p>
-                              <p className="text-base leading-relaxed">• Menyanyikan Lagu Indonesia Raya</p>
+                              <p className="text-base leading-relaxed">Pembukaan oleh MC</p>
+                              <p className="text-base leading-relaxed">Menyanyikan Lagu Indonesia Raya</p>
                             </div>
                           </td>
                         </tr>
@@ -748,8 +722,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div>
                               <p className="font-semibold text-base mb-1">Sambutan Pembuka</p>
-                              <p className="text-sm text-gray-800 leading-relaxed">
-                                Amarulla Octavian, Wakil Kepala Badan Riset dan Inovasi Nasional (BRIN)
+                              <p className="text-sm text-gray-800 leading-relaxed">Amarulla Octavian, Wakil Kepala Badan Riset dan Inovasi Nasional (BRIN)
                               </p>
                             </div>
                           </td>
@@ -759,8 +732,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div>
                               <p className="font-semibold text-base mb-1">Keynote Speech</p>
-                              <p className="text-sm text-gray-800 leading-relaxed">
-                                Eddy Abdurrahman, Direktur Utama Badan Pengelola Dana Perkebunan Kelapa Sawit
+                              <p className="text-sm text-gray-800 leading-relaxed">Eddy Abdurrahman, Direktur Utama Badan Pengelola Dana Perkebunan Kelapa Sawit
                               </p>
                             </div>
                           </td>
@@ -772,8 +744,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 5: Inovasi dan Teknologi Terdepan</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">
-                                    1. Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
+                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Meika Syahbana Rusli, M.T., Peneliti Ahli Utama, Pusat Riset Teknologi
                                   </p>
                                 </div>
                               </div>
@@ -787,8 +758,7 @@ export default function HomePage() {
                               <div>
                                 <p className="font-semibold text-base mb-1">Panel 6: Kebijakan dan Regulasi</p>
                                 <div className="space-y-1">
-                                  <p className="text-sm text-gray-800 leading-relaxed">
-                                    1. Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
+                                  <p className="text-sm text-gray-800 leading-relaxed">1. Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
                                   </p>
                                 </div>
                               </div>
@@ -804,8 +774,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div>
                               <p className="font-semibold text-base mb-1">Diskusi Panel dan Tanya Jawab</p>
-                              <p className="text-sm text-gray-800 leading-relaxed">
-                                Moderator: Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
+                              <p className="text-sm text-gray-800 leading-relaxed">Moderator: Dr. Ir. Adi Setiyanto, M.Sc., Peneliti Ahli Utama, Pusat Riset Ekonomi
                               </p>
                             </div>
                           </td>
@@ -823,8 +792,7 @@ export default function HomePage() {
                           <td className="px-6 py-5">
                             <div>
                               <p className="font-semibold text-base mb-1">Penutupan dan Kesimpulan</p>
-                              <p className="text-sm text-gray-800 leading-relaxed">
-                                Dr. Agus Eko Nugroho S.E., M. Appl.Econ, Kepala Organisasi Riset Tata Kelola
+                              <p className="text-sm text-gray-800 leading-relaxed">Dr. Agus Eko Nugroho S.E., M. Appl.Econ, Kepala Organisasi Riset Tata Kelola
                               </p>
                             </div>
                           </td>
@@ -936,8 +904,7 @@ export default function HomePage() {
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center text-white mb-8">
-            <p className="text-lg mb-4">
-              THE 2ND IPORICE 2025 will be held at :
+            <p className="text-lg mb-4">THE 2ND IPORICE 2025 will be held at :
             </p>
           </div>
 
@@ -994,8 +961,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-green-800 mb-6">Kata Ulasan</h2>
-            <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              IPORICE menjadi ruang bagi para peneliti untuk menyuarakan pandangannya:
+            <p className="text-lg text-muted-foreground max-w-3xl mx-auto">IPORICE menjadi ruang bagi para peneliti untuk menyuarakan pandangannya:
             </p>
           </div>
 
@@ -1004,8 +970,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-lg border-l-4 border-green-800">
               <div className="mb-4">
                 <Quote className="h-8 w-8 text-green-800 mb-3" />
-                <p className="text-gray-700 leading-relaxed mb-4">
-                  "Strategi peningkatan produktivitas sawit adalah kunci pencapaian energi berkelanjutan."
+                <p className="text-gray-700 leading-relaxed mb-4">"Strategi peningkatan produktivitas sawit adalah kunci pencapaian energi berkelanjutan."
                 </p>
               </div>
               <div className="border-t pt-4">
@@ -1018,8 +983,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-lg border-l-4 border-green-800">
               <div className="mb-4">
                 <Quote className="h-8 w-8 text-green-800 mb-3" />
-                <p className="text-gray-700 leading-relaxed mb-4">
-                  "Implementasi bioenergi dan ISPO sangat penting untuk transisi energi."
+                <p className="text-gray-700 leading-relaxed mb-4">"Implementasi bioenergi dan ISPO sangat penting untuk transisi energi."
                 </p>
               </div>
               <div className="border-t pt-4">
@@ -1032,8 +996,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-lg border-l-4 border-green-800">
               <div className="mb-4">
                 <Quote className="h-8 w-8 text-green-800 mb-3" />
-                <p className="text-gray-700 leading-relaxed mb-4">
-                  "Transformasi industri sawit ramah lingkungan adalah kunci ekonomi hijau."
+                <p className="text-gray-700 leading-relaxed mb-4">"Transformasi industri sawit ramah lingkungan adalah kunci ekonomi hijau."
                 </p>
               </div>
               <div className="border-t pt-4">
@@ -1046,8 +1009,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-lg border-l-4 border-green-800">
               <div className="mb-4">
                 <Quote className="h-8 w-8 text-green-800 mb-3" />
-                <p className="text-gray-700 leading-relaxed mb-4">
-                  "Generasi Z memiliki peran penting dalam masa depan SDM sawit."
+                <p className="text-gray-700 leading-relaxed mb-4">"Generasi Z memiliki peran penting dalam masa depan SDM sawit."
                 </p>
               </div>
               <div className="border-t pt-4">
@@ -1060,8 +1022,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-lg border-l-4 border-green-800">
               <div className="mb-4">
                 <Quote className="h-8 w-8 text-green-800 mb-3" />
-                <p className="text-gray-700 leading-relaxed mb-4">
-                  "Petani rakyat adalah pilar kekuatan industri sawit berkelanjutan."
+                <p className="text-gray-700 leading-relaxed mb-4">"Petani rakyat adalah pilar kekuatan industri sawit berkelanjutan."
                 </p>
               </div>
               <div className="border-t pt-4">
@@ -1074,8 +1035,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-lg border-l-4 border-green-800">
               <div className="mb-4">
                 <Quote className="h-8 w-8 text-green-800 mb-3" />
-                <p className="text-gray-700 leading-relaxed mb-4">
-                  "Ekonomi sirkuler sawit membuka peluang ekonomi baru sekaligus menjaga lingkungan."
+                <p className="text-gray-700 leading-relaxed mb-4">"Ekonomi sirkuler sawit membuka peluang ekonomi baru sekaligus menjaga lingkungan."
                 </p>
               </div>
               <div className="border-t pt-4">
@@ -1088,8 +1048,7 @@ export default function HomePage() {
             <div className="bg-green-800 text-white p-6 rounded-lg shadow-lg md:col-span-2 lg:col-span-3">
               <div className="text-center">
                 <Quote className="h-10 w-10 text-white mb-4 mx-auto" />
-                <p className="text-xl leading-relaxed mb-6">
-                  "Suara peneliti harus menjadi dasar kebijakan sawit berkelanjutan."
+                <p className="text-xl leading-relaxed mb-6">"Suara peneliti harus menjadi dasar kebijakan sawit berkelanjutan."
                 </p>
                 <div className="border-t border-green-600 pt-4">
                   <p className="font-semibold text-lg">Forum Peneliti IPORICE 2024</p>
@@ -1105,8 +1064,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-green-800 mb-6">Daftar Pembicara</h2>
-            <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              Para narasumber utama dan panelis IPORICE 2025 yang akan berbagi wawasan strategis seputar inovasi
+            <p className="text-lg text-muted-foreground max-w-3xl mx-auto">Para narasumber utama dan panelis IPORICE 2025 yang akan berbagi wawasan strategis seputar inovasi
               kelapa sawit dan ketahanan energi nasional.
             </p>
           </div>
@@ -1140,60 +1098,60 @@ export default function HomePage() {
           </div>
 
           <div className="bg-white rounded-lg shadow-lg p-12">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center justify-items-center">
-              <div className="flex items-center justify-center h-24">
+            <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 items-center justify-items-center">
+              <div className="flex items-center justify-center h-24 sm:h-28">
                 <img
                   src="/brin-logo-new.png"
                   alt="BRIN - Badan Riset dan Inovasi Nasional"
-                  className="max-h-full max-w-full object-contain"
+                  className="h-20 w-auto max-w-[200px] object-contain"
                 />
               </div>
-              <div className="flex items-center justify-center h-24">
+              <div className="flex items-center justify-center h-24 sm:h-28">
                 <img
                   src="/gppi-logo-new.png"
                   alt="GPPI - Gabungan Perusahaan Perkebunan Indonesia"
-                  className="max-h-full max-w-full object-contain"
+                  className="h-20 w-auto max-w-[200px] object-contain"
                 />
               </div>
             </div>
           </div>
 
           <div className="bg-white rounded-lg shadow-lg p-12 mt-8">
-            <div className="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-center justify-items-center">
-              <div className="flex flex-col items-center gap-6 sm:gap-8 lg:pr-8">
+            <div className="w-full grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 lg:gap-12">
+              <div className="flex w-full flex-col items-center gap-6 sm:gap-8 rounded-xl border border-green-100 bg-white p-6 lg:pr-8">
                 <img
                   src="/pupuk indonesia.jpg"
                   alt="Pupuk Indonesia"
-                  className="max-h-32 w-full max-w-xs object-contain"
+                className="max-h-20 w-auto max-w-[200px] object-contain"
                 />
                 <img
                   src="/cpoc.jpg"
                   alt="CPOPC"
-                  className="max-h-28 w-full max-w-xs object-contain"
+                className="max-h-20 w-auto max-w-[200px] object-contain"
                 />
               </div>
-              <div className="flex flex-col items-center gap-6 sm:gap-8 lg:border-x lg:border-green-100 lg:px-8">
+              <div className="flex w-full flex-col items-center gap-6 sm:gap-8 rounded-xl border border-green-100 bg-white p-6 lg:px-8">
                 <img
                   src="/BPDP.jpg"
                   alt="BPDP"
-                  className="max-h-32 w-full max-w-xs object-contain"
+                className="max-h-20 w-auto max-w-[200px] object-contain"
                 />
                 <img
                   src="/Pertamina_Logo.svg.png"
                   alt="Pertamina"
-                  className="max-h-20 w-full max-w-xs object-contain"
+                className="max-h-16 w-auto max-w-[180px] object-contain"
                 />
               </div>
-              <div className="flex flex-col items-center gap-6 sm:gap-8 lg:pl-8">
+              <div className="flex w-full flex-col items-center gap-6 sm:gap-8 rounded-xl border border-green-100 bg-white p-6 lg:pl-8">
                 <img
                   src="/nusantara.png"
                   alt="Perkebunan Nusantara"
-                  className="max-h-28 w-full max-w-xs object-contain"
+                className="max-h-20 w-auto max-w-[200px] object-contain"
                 />
                 <img
                   src="/Logo-triputra-agro-persada.png"
                   alt="Triputra Agro Persada"
-                  className="max-h-20 w-full max-w-xs object-contain"
+                className="max-h-16 w-auto max-w-[180px] object-contain"
                 />
               </div>
             </div>
@@ -1260,8 +1218,7 @@ export default function HomePage() {
                 <div className="flex items-start gap-2">
                   <MapPin className="h-4 w-4 text-green-400 mt-0.5 flex-shrink-0" />
                   <div>
-                    <p className="text-background/80">
-                      Gedung Widya Graha, Lantai 9<br />
+                    <p className="text-background/80">Gedung Widya Graha, Lantai 9<br />
                       Jl. Jenderal Gatot Subroto No. 10
                       <br />
                       Jakarta 12710
