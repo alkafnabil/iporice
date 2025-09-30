@@ -422,7 +422,7 @@ export default function HomePage() {
 
               <div className="bg-green-100 p-6 rounded-lg space-y-4">
                 <div>
-                  <p className="font-semibold text-green-900 mb-2">ΓÇó IPORICE 2024 bertema:</p>
+                  <p className="font-semibold text-green-900 mb-2">• IPORICE 2024 bertema:</p>
                   <p className="italic text-green-800">"Daya Juang Sawit Berkelanjutan untuk Indonesia Maju"</p>
                   <p className="text-sm text-green-700 mt-2">
                     Tema ini menekankan pentingnya daya juang seluruh pemangku kepentingan agar sawit Indonesia mampu
@@ -432,7 +432,7 @@ export default function HomePage() {
                 </div>
 
                 <div>
-                  <p className="font-semibold text-green-900 mb-2">ΓÇó IPORICE 2025 bertema:</p>
+                  <p className="font-semibold text-green-900 mb-2">• IPORICE 2025 bertema:</p>
                   <p className="italic text-green-800">
                     "Penguatan Sinergi Sektor Perkebunan Sawit dalam Mendukung Ketahanan Energi Berbasis Inovasi
                     Teknologi"
@@ -558,9 +558,9 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">08.30-09.00</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">ΓÇó Registrasi Peserta</p>
+                              <p className="text-base leading-relaxed">• Registrasi Peserta</p>
                               <p className="text-base leading-relaxed">
-                                ΓÇó Pembagian Goody Bag dan Pemutaran Video Sponsor
+                                • Pembagian Goody Bag dan Pemutaran Video Sponsor
                               </p>
                             </div>
                           </td>
@@ -569,9 +569,9 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">09.00-09.16</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">ΓÇó Pembukaan oleh MC</p>
-                              <p className="text-base leading-relaxed">ΓÇó Tarian Pembukaan</p>
-                              <p className="text-base leading-relaxed">ΓÇó Menyanyikan Lagu Indonesia Raya</p>
+                              <p className="text-base leading-relaxed">• Pembukaan oleh MC</p>
+                              <p className="text-base leading-relaxed">• Tarian Pembukaan</p>
+                              <p className="text-base leading-relaxed">• Menyanyikan Lagu Indonesia Raya</p>
                             </div>
                           </td>
                         </tr>
@@ -738,8 +738,8 @@ export default function HomePage() {
                           <td className="px-6 py-5 font-bold text-green-900 text-base">09.00-09.10</td>
                           <td className="px-6 py-5">
                             <div className="space-y-1">
-                              <p className="text-base leading-relaxed">ΓÇó Pembukaan oleh MC</p>
-                              <p className="text-base leading-relaxed">ΓÇó Menyanyikan Lagu Indonesia Raya</p>
+                              <p className="text-base leading-relaxed">• Pembukaan oleh MC</p>
+                              <p className="text-base leading-relaxed">• Menyanyikan Lagu Indonesia Raya</p>
                             </div>
                           </td>
                         </tr>
