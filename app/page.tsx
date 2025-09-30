@@ -66,7 +66,7 @@ export default function HomePage() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["home", "about", "program", "speakers", "sponsors"]
+      const sections = ["home", "about", "program", "sponsors", "speakers", "reviews"]
       const scrollPosition = window.scrollY + 100
 
       for (const section of sections) {
@@ -158,7 +158,7 @@ export default function HomePage() {
                 Speakers
               </button>
               <button
-                onClick={() => scrollToSection("about")}
+                onClick={() => scrollToSection("reviews")}
                 className="text-white hover:text-green-100 transition-colors font-medium px-3 py-2 rounded-md"
               >
                 Ulasan
@@ -239,7 +239,7 @@ export default function HomePage() {
                     Speakers
                   </button>
                   <button
-                    onClick={() => scrollToSection("about")}
+                    onClick={() => scrollToSection("reviews")}
                     className="block w-full text-left px-3 py-2 text-white hover:text-green-100 hover:bg-green-800 rounded-md transition-colors"
                   >
                     Ulasan
@@ -990,7 +990,7 @@ export default function HomePage() {
       </section>
 
       {/* Researcher Quotes Section */}
-      <section className="py-20 bg-muted">
+      <section id="reviews" className="py-20 bg-muted">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-green-800 mb-6">Kata Ulasan</h2>
